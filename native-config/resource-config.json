@@ -1,0 +1,12 @@
+{
+  "resources":[
+    {"pattern":"\\Qclojure/core.clj\\E"}, 
+    {"pattern":"\\Qclojure/core/server.clj\\E"}, 
+    {"pattern":"\\Qclojure/core/server__init.class\\E"}, 
+    {"pattern":"\\Qclojure/core__init.class\\E"}, 
+    {"pattern":"\\Qcom/sun/jna/linux-x86-64/libjnidispatch.so\\E"}, 
+    {"pattern":"\\Qhalodb_native_demo/core.clj\\E"}, 
+    {"pattern":"\\Qhalodb_native_demo/core__init.class\\E"}
+  ],
+  "bundles":[]
+}
